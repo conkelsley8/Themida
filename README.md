@@ -210,4 +210,4 @@ Themida is offered as a complete free version, providing all features and update
 Take your software security to the next level with Themida! Download now and protect your applications today!
 
 ---
-**Last updated:** 2026-09-15 13:01:13 UTC
+**Last updated:** 2026-09-15 17:51:00 UTC
